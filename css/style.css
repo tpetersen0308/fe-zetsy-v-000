@@ -29,14 +29,16 @@ body {
 }
 
 #logo {
-	height: 100px;
+	top: 0px;
+	left: 0px;
+	width: 100%;
 	border-bottom: 1px solid rgb(169,178,175);
 }
 
-#logo h1 {
+h1 {
 	font-family: "Baskerville", "New Times Roman", serif;
 	font-weight: lighter;
-	font-size: 80px;
+	font-size: 72px;
 	color: rgb(169, 178, 175);
 }
 
