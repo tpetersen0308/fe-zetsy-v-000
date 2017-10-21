@@ -28,18 +28,14 @@ body {
   box-sizing: border-box;
 }
 
-#logo {
-	top: 0px;
-	left: 0px;
-	width: 100%;
-	border-bottom: 1px solid rgb(169,178,175);
-}
-
 h1 {
+	margin: 0px 0px 5px;
+	padding: 0px 0px 5px;
 	font-family: "Baskerville", "New Times Roman", serif;
-	font-weight: lighter;
 	font-size: 72px;
+	font-weight: lighter;
 	color: rgb(169, 178, 175);
+	border-bottom: 1px solid rgb(169,178,175);
 }
 
 h2 {
