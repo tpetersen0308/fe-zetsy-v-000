@@ -38,6 +38,7 @@ h1 {
 	padding: 0px 0px 5px;
 	font-family: "Baskerville", "New Times Roman", serif;
 	font-size: 72px;
+	font-weight: lighter;
 	color: rgb(169, 178, 175);
 	border-bottom: 1px solid rgb(169,178,175);
 }
